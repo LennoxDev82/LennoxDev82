@@ -49,6 +49,9 @@ Features (yet):
 - Hotkeys
 - Configs
 - Mulitple Game Support
+- Kernel Driver
+- Humanizer
+- External Overlay for visuals
 
 <img src="./showcase_gif.gif" alt="InfinityAI Demo" width="75%">
 
