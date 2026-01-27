@@ -20,7 +20,7 @@ I also run my own homelab, which I use daily to expand my skills with Linux serv
 ## ⚙️ Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" />
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="[https://www.vectorlogo.zone/logos/lua/lua-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/960px-Lua-Logo.svg.png?20150107024942)" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
