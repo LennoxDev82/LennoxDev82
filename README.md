@@ -2,9 +2,9 @@
 
 **`Welcome to my GitHub Profile`**
 
-Hey, I code almost everything. From Discord bots to small, helpful tools.
+Hey, I code almost everything. From Discord bots to small, helpful tools. Currently specialising in Game Hacking.
 
-Some time ago, I started developing my own game cheats, not to ruin anyone’s fun, but because I’m genuinely interested in the topic itself. I’m still learning a lot along the way.
+Some time ago, I started developing my own game hacks, not to ruin anyone’s fun, but because I’m genuinely interested in the topic itself. I’m still learning a lot along the way.
 
 I also run my own homelab, which I use daily to expand my skills with Linux servers.
 
@@ -20,39 +20,30 @@ I also run my own homelab, which I use daily to expand my skills with Linux serv
 ## ⚙️ Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="[https://www.vectorlogo.zone/logos/lua/lua-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/960px-Lua-Logo.svg.png?20150107024942)" />
+<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="mySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
 <img align="left" alt="Ultralytics" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/26833451?s=200&v=4" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
 <br />
 
 ## Current Project
 
 **InfinityAI**
 
-A YOLOv8-based AI game cheat that tracks enemies in real time through AI model detection.
+A YOLOv8-based AI game hack that tracks enemies in real time through AI model detection.
 It includes built-in features such as an aim- and triggerbot, which operate purely on image data. The project is currently in active development.
 
-Features (yet):
+Check out the Website to learn more: 
+[InfinityAI](https://infinityai.to/)
 
-- Aimbot
-- Smoothness
-- Sticky Aim
-- Triggerbot
-- Delay
-- Misschance
-- Bones
-- Hotkeys
-- Configs
-- Mulitple Game Support
-- Kernel Driver
-- Humanizer
-- External Overlay for visuals
-
-<img src="./showcase_gif.gif" alt="InfinityAI Demo" width="75%">
+<img src="./showcasegif.gif" alt="InfinityAI Demo" width="75%">
 
 ---
