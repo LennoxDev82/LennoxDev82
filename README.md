@@ -4,7 +4,7 @@
 
 Hey, I code almost everything. From Discord bots to small, helpful tools. Currently specialising in Game Hacking.
 
-Some time ago, I started developing my own game hacks, not to ruin anyone’s fun, but because I’m genuinely interested in the topic itself. I’m still learning a lot along the way. Successfully bypassing EAC/Vanguard right now.
+Some time ago, I started developing my own game hacks, not to ruin anyone’s fun, but because I’m genuinely interested in the topic itself. I’m still learning a lot along the way.
 
 I also run my own homelab, which I use daily to expand my skills with Linux servers.
 
