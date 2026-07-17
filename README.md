@@ -34,12 +34,12 @@ I also run my own homelab, which I use daily to expand my skills with Linux serv
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
 <br />
 
-## Current Project
+## Last "Finished" Major Project
 
 **InfinityAI**
 
 A YOLOv8-based AI game hack that tracks enemies in real time through AI model detection.
-It includes built-in features such as an aim- and triggerbot, which operate purely on image data. The project is currently in active development.
+It includes built-in features such as an aim- and triggerbot, which operate purely on image data. The project is done and only get's life support updates.
 
 Check out the Website to learn more: 
 [InfinityAI](https://infinityai.to/)
@@ -47,3 +47,19 @@ Check out the Website to learn more:
 <img src="./showcasegif.gif" alt="InfinityAI Demo" width="75%">
 
 ---
+
+## Current Project (Early Development)
+
+**Crashout External**
+
+An External GTA Game Hack operating at kernel level (Maybe doing a bootkit later), that uses techniques from malware development to hide the cheat in trusted processes to bypass manual PC Analysis and a loader that hides in any open source project you like (Example: Modified OBS that behaves normal until you press a specific key combo to start the loader). The cheat itself leaves 0 traces on the system of the user. Leaving no traces > deleting traces.
+
+Features:
+
+- ESP (2D Boxes, Skeleton, Healthbar, Weapon (Icon), Snaplines, Distance) (All fully customizable in position and color)
+- Visuals (Custom Crosshair, Trails, Text circle around your body, Info HUD, Damage Numbers, Rainbow effect)
+- Webradar (Shareable Radar to share your ESP via Website to friends. Includes the GTA Map in Web, Add Friends, Spectate Players...) (Of course not traceable in PC Analysis HAHAHAHA)
+- Aimbot (Strenght, Dynamic FOV, Humanizer, Bones, Sticky Aim...
+- Triggerbot (Bones, Delay, Misschance)
+- Misc (Anti Aim, Hitsounds, Hitmarker & some more small stuff)
+- Configs (Server sided, no config file on your system :D )
