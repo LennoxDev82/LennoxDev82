@@ -65,3 +65,5 @@ Features:
 - Configs (Server sided, no config file on your system :D )
 
 <img src="./Screenshot 2026-07-17 071136.png" alt="Crashout Pic" width="75%">
+
+---
