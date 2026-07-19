@@ -39,7 +39,7 @@ I also run my own homelab, which I use daily to expand my skills with Linux serv
 **InfinityAI**
 
 A YOLOv8-based AI game hack that tracks enemies in real time through AI model detection.
-It includes built-in features such as an aim- and triggerbot, which operate purely on image data. The project is done and only get's life support updates.
+It includes built-in features such as an aim- and triggerbot, which operate purely on image data. The project is finished and only get's life support updates.
 
 Check out the Website to learn more: 
 [InfinityAI](https://infinityai.to/)
